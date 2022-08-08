@@ -7,11 +7,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkgy94329&count_bg=%23FFC3C3&title_bg=%23EF4848&icon=&icon_color=%232B2B2B&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## My History
-* 2019.04 ~ 2021.02 [Japan Electronics College](https://www.jec.ac.jp/)
-    * AI System
 * 2022.06 ~ Metaverse Academy
     * AI course
-
+* 2019.04 ~ 2021.02 [Japan Electronics College](https://www.jec.ac.jp/)
+    * AI System
+    
 ## Certification
 * OCJP - Silver
     * SE8
