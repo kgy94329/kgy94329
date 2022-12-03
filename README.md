@@ -1,13 +1,11 @@
 # CookieCrumble🍪
 ## That's the way the Cookiecrumbles🍪
-🍪가 여러가지 모양으로 부스러지듯이 세상을 살다 보면 ✨별의별 일이 다 일어나지요.  
-코딩을 하는 우리도 ✨별의별 일이 다 일어납니다!  
-어떤 일이 일어나도 **_꿋꿋하게 다시 일어나는 개발자_** 가 되겠습니다
+안녕하세요!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkgy94329&count_bg=%23FFC3C3&title_bg=%23EF4848&icon=&icon_color=%232B2B2B&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## My History
-* 2022.06 ~ Metaverse Academy
+* 2022.06 ~ 2022.12 Metaverse Academy
     * AI course
 * 2019.04 ~ 2021.02 [Japan Electronics College](https://www.jec.ac.jp/)
     * AI System
